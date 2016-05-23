@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/joeyhe/pocketlab/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/joeyhe/pocketlab/MainActivity.java	(revision )
++++ app/src/main/java/com/joeyhe/pocketlab/MainActivity.java	(revision )
+@@ -20,6 +20,8 @@
+ import java.net.Socket;
+ import java.net.UnknownHostException;
+ 
++import cn.pedant.SweetAlert.SweetAlertDialog;
++
+ public class MainActivity extends Activity {
+     private Socket clientSocket = null;
+     private OutputStream outStream = null;

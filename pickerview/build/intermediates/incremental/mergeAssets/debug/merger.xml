@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by GONGYIN HE （何功垠） in 2016
+  ~ Copyright (c) 2016. All right reserved.
+  ~
+  ~ Last modified 16-5-23 下午9:37
+  -->
+
+<merger version="3"><dataSet config="main"><source path="D:\Company\wSheJi\IosSegment\pickerview\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\Company\wSheJi\IosSegment\pickerview\src\debug\assets"/></dataSet></merger>

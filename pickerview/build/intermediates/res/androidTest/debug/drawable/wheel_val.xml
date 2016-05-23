@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Created by GONGYIN HE （何功垠） in 2016
+  ~ Copyright (c) 2016. All right reserved.
+  ~
+  ~ Last modified 16-5-23 下午9:37
+  -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_line_timepicker"></item>
+</selector><!-- From: file:/D:/Company/wSheJi/IosSegment/pickerview/src/main/res/drawable/wheel_val.xml --><!-- From: file:/D:/Company/wSheJi/IosSegment/pickerview/build/intermediates/bundles/debug/res/drawable/wheel_val.xml -->

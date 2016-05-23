@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\timepicker_anim_exit_bottom.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\timepicker_anim_exit_bottom.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\timepicker_anim_exit_bottom.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\timepicker_anim_exit_bottom.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\timepicker_anim_enter_bottom.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\timepicker_anim_enter_bottom.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\timepicker_anim_enter_bottom.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\anim\\timepicker_anim_enter_bottom.xml"
+    }
+]

@@ -1,0 +1,2010 @@
+Index: app/build/generated/source/r/debug/cn/pedant/SweetAlert/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/cn/pedant/SweetAlert/R.java	(revision )
++++ app/build/generated/source/r/debug/cn/pedant/SweetAlert/R.java	(revision )
+@@ -406,19 +406,19 @@
+ 		public static final int always = 0x7f0f0039;
+ 		public static final int beginning = 0x7f0f002c;
+ 		public static final int bottom = 0x7f0f0034;
+-		public static final int cancel_button = 0x7f0f0147;
++		public static final int cancel_button = 0x7f0f0149;
+ 		public static final int checkbox = 0x7f0f0083;
+ 		public static final int collapseActionView = 0x7f0f003a;
+-		public static final int confirm_button = 0x7f0f0148;
+-		public static final int content_text = 0x7f0f0146;
+-		public static final int custom_image = 0x7f0f013b;
++		public static final int confirm_button = 0x7f0f014a;
++		public static final int content_text = 0x7f0f0148;
++		public static final int custom_image = 0x7f0f013d;
+ 		public static final int decor_content_parent = 0x7f0f0089;
+ 		public static final int default_activity_button = 0x7f0f0071;
+ 		public static final int disableHome = 0x7f0f001e;
+ 		public static final int edit_query = 0x7f0f008d;
+ 		public static final int end = 0x7f0f002d;
+-		public static final int error_frame = 0x7f0f013c;
+-		public static final int error_x = 0x7f0f013d;
++		public static final int error_frame = 0x7f0f013e;
++		public static final int error_x = 0x7f0f013f;
+ 		public static final int expand_activities_button = 0x7f0f006f;
+ 		public static final int expanded_menu = 0x7f0f0082;
+ 		public static final int home = 0x7f0f0007;
+@@ -428,16 +428,16 @@
+ 		public static final int image = 0x7f0f0070;
+ 		public static final int listMode = 0x7f0f001b;
+ 		public static final int list_item = 0x7f0f0072;
+-		public static final int loading = 0x7f0f013a;
+-		public static final int mask_left = 0x7f0f0140;
+-		public static final int mask_right = 0x7f0f013f;
++		public static final int loading = 0x7f0f013c;
++		public static final int mask_left = 0x7f0f0142;
++		public static final int mask_right = 0x7f0f0141;
+ 		public static final int middle = 0x7f0f002e;
+ 		public static final int never = 0x7f0f003c;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int progressWheel = 0x7f0f0144;
++		public static final int progressWheel = 0x7f0f0146;
+ 		public static final int progress_circular = 0x7f0f0011;
+-		public static final int progress_dialog = 0x7f0f0143;
++		public static final int progress_dialog = 0x7f0f0145;
+ 		public static final int progress_horizontal = 0x7f0f0012;
+ 		public static final int radio = 0x7f0f0085;
+ 		public static final int search_badge = 0x7f0f008f;
+@@ -456,15 +456,15 @@
+ 		public static final int showTitle = 0x7f0f0023;
+ 		public static final int split_action_bar = 0x7f0f0014;
+ 		public static final int submit_area = 0x7f0f0096;
+-		public static final int success_frame = 0x7f0f013e;
+-		public static final int success_tick = 0x7f0f0141;
++		public static final int success_frame = 0x7f0f0140;
++		public static final int success_tick = 0x7f0f0143;
+ 		public static final int tabMode = 0x7f0f001d;
+ 		public static final int title = 0x7f0f0074;
+-		public static final int title_text = 0x7f0f0145;
++		public static final int title_text = 0x7f0f0147;
+ 		public static final int top = 0x7f0f0038;
+ 		public static final int up = 0x7f0f0015;
+ 		public static final int useLogo = 0x7f0f0024;
+-		public static final int warning_frame = 0x7f0f0142;
++		public static final int warning_frame = 0x7f0f0144;
+ 		public static final int withText = 0x7f0f003d;
+ 		public static final int wrap_content = 0x7f0f0025;
+ 		public static final int x = 0x7f0f003e;
+Index: app/build/generated/source/r/debug/com/google/android/gms/ads/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/ads/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/ads/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/gcm/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/gcm/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/gcm/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/auth/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/auth/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/auth/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/base/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/base/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/base/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/cast/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/cast/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/cast/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/maps/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/maps/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/maps/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/plus/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/plus/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/plus/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/drive/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/drive/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/drive/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/games/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/games/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/games/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/nearby/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/nearby/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/nearby/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/vision/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/vision/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/vision/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/wallet/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/wallet/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/wallet/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/fitness/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/fitness/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/fitness/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/appstate/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/appstate/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/appstate/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/identity/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/identity/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/identity/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/location/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/location/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/location/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/panorama/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/panorama/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/panorama/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/wearable/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/wearable/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/wearable/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/analytics/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/analytics/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/analytics/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/google/android/gms/measurement/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/google/android/gms/measurement/R.java	(revision )
++++ app/build/generated/source/r/debug/com/google/android/gms/measurement/R.java	(revision )
+@@ -196,14 +196,14 @@
+ 		public static final int monochrome = 0x7f0f0061;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int place_autocomplete_clear_button = 0x7f0f01ce;
+-		public static final int place_autocomplete_powered_by_google = 0x7f0f01d0;
+-		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d2;
+-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d3;
+-		public static final int place_autocomplete_progress = 0x7f0f01d1;
+-		public static final int place_autocomplete_search_button = 0x7f0f01cc;
+-		public static final int place_autocomplete_search_input = 0x7f0f01cd;
+-		public static final int place_autocomplete_separator = 0x7f0f01cf;
++		public static final int place_autocomplete_clear_button = 0x7f0f01d0;
++		public static final int place_autocomplete_powered_by_google = 0x7f0f01d2;
++		public static final int place_autocomplete_prediction_primary_text = 0x7f0f01d4;
++		public static final int place_autocomplete_prediction_secondary_text = 0x7f0f01d5;
++		public static final int place_autocomplete_progress = 0x7f0f01d3;
++		public static final int place_autocomplete_search_button = 0x7f0f01ce;
++		public static final int place_autocomplete_search_input = 0x7f0f01cf;
++		public static final int place_autocomplete_separator = 0x7f0f01d1;
+ 		public static final int production = 0x7f0f004b;
+ 		public static final int sandbox = 0x7f0f004c;
+ 		public static final int satellite = 0x7f0f0032;
+Index: app/build/generated/source/r/debug/com/joeyhe/pocketlab/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/joeyhe/pocketlab/R.java	(revision )
++++ app/build/generated/source/r/debug/com/joeyhe/pocketlab/R.java	(revision )
+@@ -3245,7 +3245,7 @@
+         public static final int warning_sigh=0x7f0200e9;
+     }
+     public static final class id {
+-        public static final int action0=0x7f0f01a0;
++        public static final int action0=0x7f0f01a2;
+         public static final int action_bar=0x7f0f008b;
+         public static final int action_bar_activity_content=0x7f0f0000;
+         public static final int action_bar_container=0x7f0f008a;
+@@ -3254,7 +3254,7 @@
+         public static final int action_bar_subtitle=0x7f0f006c;
+         public static final int action_bar_title=0x7f0f006b;
+         public static final int action_context_bar=0x7f0f008c;
+-        public static final int action_divider=0x7f0f01a4;
++        public static final int action_divider=0x7f0f01a6;
+         public static final int action_menu_divider=0x7f0f0002;
+         public static final int action_menu_presenter=0x7f0f0003;
+         public static final int action_mode_bar=0x7f0f0088;
+@@ -3265,31 +3265,31 @@
+         public static final int adjust_width=0x7f0f0030;
+         public static final int alertTitle=0x7f0f007a;
+         public static final int always=0x7f0f0039;
+-        public static final int ampm_hitspace=0x7f0f01db;
+-        public static final int ampm_label=0x7f0f01dc;
++        public static final int ampm_hitspace=0x7f0f01dd;
++        public static final int ampm_label=0x7f0f01de;
+         public static final int android_pay=0x7f0f0062;
+         public static final int android_pay_dark=0x7f0f0059;
+         public static final int android_pay_light=0x7f0f005a;
+         public static final int android_pay_light_with_border=0x7f0f005b;
+-        public static final int animator=0x7f0f014f;
+-        public static final int art=0x7f0f0198;
++        public static final int animator=0x7f0f0151;
++        public static final int art=0x7f0f019a;
+         public static final int auto=0x7f0f0044;
+         public static final int beginning=0x7f0f002c;
+         public static final int book_now=0x7f0f0052;
+         public static final int bottom=0x7f0f0034;
+         public static final int box=0x7f0f0063;
+-        public static final int button=0x7f0f0117;
+-        public static final int button10=0x7f0f0138;
+-        public static final int button2=0x7f0f011e;
+-        public static final int button2Bode=0x7f0f0190;
+-        public static final int button2DC=0x7f0f0191;
+-        public static final int button2Log=0x7f0f018f;
+-        public static final int button2Osc=0x7f0f018d;
+-        public static final int button2Sin=0x7f0f018e;
+-        public static final int button3=0x7f0f0120;
+-        public static final int button4=0x7f0f0129;
+-        public static final int button5=0x7f0f012b;
+-        public static final int button6=0x7f0f0136;
++        public static final int button=0x7f0f0119;
++        public static final int button10=0x7f0f013a;
++        public static final int button2=0x7f0f0120;
++        public static final int button2Bode=0x7f0f0192;
++        public static final int button2DC=0x7f0f0193;
++        public static final int button2Log=0x7f0f0191;
++        public static final int button2Osc=0x7f0f018f;
++        public static final int button2Sin=0x7f0f0190;
++        public static final int button3=0x7f0f0122;
++        public static final int button4=0x7f0f012b;
++        public static final int button5=0x7f0f012d;
++        public static final int button6=0x7f0f0138;
+         public static final int button7=0x7f0f009d;
+         public static final int button9=0x7f0f009f;
+         public static final int buttonPanel=0x7f0f0075;
+@@ -3297,83 +3297,83 @@
+         public static final int button_DC=0x7f0f00fa;
+         public static final int button_Log=0x7f0f00f8;
+         public static final int button_Osc=0x7f0f00f6;
+-        public static final int button_OscRun=0x7f0f01ca;
+-        public static final int button_OscStop=0x7f0f01cb;
++        public static final int button_OscRun=0x7f0f01cc;
++        public static final int button_OscStop=0x7f0f01cd;
+         public static final int button_Sig=0x7f0f00f7;
+-        public static final int button_VO1=0x7f0f0131;
+-        public static final int button_VO2=0x7f0f0134;
+-        public static final int button_amp=0x7f0f010f;
+-        public static final int button_freq=0x7f0f010c;
++        public static final int button_VO1=0x7f0f0133;
++        public static final int button_VO2=0x7f0f0136;
++        public static final int button_amp=0x7f0f0111;
++        public static final int button_freq=0x7f0f010e;
+         public static final int button_logRun=0x7f0f009e;
+-        public static final int button_set=0x7f0f011a;
+-        public static final int button_stop=0x7f0f011c;
+-        public static final int button_vd1=0x7f0f01b9;
+-        public static final int button_vd2=0x7f0f01c1;
+-        public static final int button_volts1=0x7f0f01bc;
+-        public static final int button_volts2=0x7f0f01c4;
++        public static final int button_set=0x7f0f011c;
++        public static final int button_stop=0x7f0f011e;
++        public static final int button_vd1=0x7f0f01bb;
++        public static final int button_vd2=0x7f0f01c3;
++        public static final int button_volts1=0x7f0f01be;
++        public static final int button_volts2=0x7f0f01c6;
+         public static final int buttonhelp=0x7f0f00fb;
+-        public static final int buttons=0x7f0f019d;
++        public static final int buttons=0x7f0f019f;
+         public static final int buttonswitch=0x7f0f00fc;
+         public static final int buyButton=0x7f0f004f;
+         public static final int buy_now=0x7f0f0053;
+         public static final int buy_with=0x7f0f0054;
+         public static final int buy_with_google=0x7f0f0055;
+-        public static final int cancel_action=0x7f0f01a1;
+-        public static final int cancel_button=0x7f0f0147;
++        public static final int cancel_action=0x7f0f01a3;
++        public static final int cancel_button=0x7f0f0149;
+         public static final int cast_notification_id=0x7f0f0004;
+-        public static final int center_view=0x7f0f01d5;
+-        public static final int chart=0x7f0f0100;
++        public static final int center_view=0x7f0f01d7;
++        public static final int chart=0x7f0f0101;
+         public static final int checkbox=0x7f0f0083;
+-        public static final int chronometer=0x7f0f01a7;
++        public static final int chronometer=0x7f0f01a9;
+         public static final int classic=0x7f0f005c;
+-        public static final int clear_search=0x7f0f01fe;
++        public static final int clear_search=0x7f0f0200;
+         public static final int collapseActionView=0x7f0f003a;
+-        public static final int confirm_button=0x7f0f0148;
++        public static final int confirm_button=0x7f0f014a;
+         public static final int contentPanel=0x7f0f007b;
+-        public static final int content_text=0x7f0f0146;
++        public static final int content_text=0x7f0f0148;
+         public static final int custom=0x7f0f0081;
+         public static final int customPanel=0x7f0f0080;
+-        public static final int custom_image=0x7f0f013b;
++        public static final int custom_image=0x7f0f013d;
+         public static final int dark=0x7f0f0045;
+-        public static final int date=0x7f0f0154;
++        public static final int date=0x7f0f0156;
+         public static final int date_keyboard=0x7f0f0005;
+         public static final int date_month_int=0x7f0f0006;
+-        public static final int date_picker=0x7f0f0151;
+-        public static final int date_picker_day=0x7f0f014d;
+-        public static final int date_picker_header=0x7f0f0149;
+-        public static final int date_picker_month=0x7f0f014c;
+-        public static final int date_picker_month_and_day=0x7f0f014b;
+-        public static final int date_picker_year=0x7f0f014e;
+-        public static final int date_text=0x7f0f0152;
+-        public static final int day_picker_selected_date_layout=0x7f0f014a;
+-        public static final int decimal=0x7f0f01b3;
+-        public static final int decimal_separator=0x7f0f01b2;
++        public static final int date_picker=0x7f0f0153;
++        public static final int date_picker_day=0x7f0f014f;
++        public static final int date_picker_header=0x7f0f014b;
++        public static final int date_picker_month=0x7f0f014e;
++        public static final int date_picker_month_and_day=0x7f0f014d;
++        public static final int date_picker_year=0x7f0f0150;
++        public static final int date_text=0x7f0f0154;
++        public static final int day_picker_selected_date_layout=0x7f0f014c;
++        public static final int decimal=0x7f0f01b5;
++        public static final int decimal_separator=0x7f0f01b4;
+         public static final int decor_content_parent=0x7f0f0089;
+         public static final int default_activity_button=0x7f0f0071;
+-        public static final int default_control_frame=0x7f0f0197;
+-        public static final int delete=0x7f0f0156;
++        public static final int default_control_frame=0x7f0f0199;
++        public static final int delete=0x7f0f0158;
+         public static final int disableHome=0x7f0f001e;
+-        public static final int disconnect=0x7f0f019e;
+-        public static final int divider=0x7f0f0157;
++        public static final int disconnect=0x7f0f01a0;
++        public static final int divider=0x7f0f0159;
+         public static final int donate_with=0x7f0f0056;
+         public static final int donate_with_google=0x7f0f0057;
+-        public static final int done_button=0x7f0f016d;
++        public static final int done_button=0x7f0f016f;
+         public static final int edit_query=0x7f0f008d;
+-        public static final int empty_item=0x7f0f015a;
++        public static final int empty_item=0x7f0f015c;
+         public static final int end=0x7f0f002d;
+-        public static final int endCount=0x7f0f01ee;
+-        public static final int endDate=0x7f0f01f0;
+-        public static final int endGroup=0x7f0f01ec;
+-        public static final int endSpinner=0x7f0f01ed;
+-        public static final int end_padder=0x7f0f01ac;
+-        public static final int error=0x7f0f01b6;
+-        public static final int error_frame=0x7f0f013c;
+-        public static final int error_x=0x7f0f013d;
++        public static final int endCount=0x7f0f01f0;
++        public static final int endDate=0x7f0f01f2;
++        public static final int endGroup=0x7f0f01ee;
++        public static final int endSpinner=0x7f0f01ef;
++        public static final int end_padder=0x7f0f01ae;
++        public static final int error=0x7f0f01b8;
++        public static final int error_frame=0x7f0f013e;
++        public static final int error_x=0x7f0f013f;
+         public static final int expand_activities_button=0x7f0f006f;
+         public static final int expanded_menu=0x7f0f0082;
+-        public static final int expiration_picker=0x7f0f015b;
+-        public static final int expiration_seperator=0x7f0f015c;
+-        public static final int first=0x7f0f0167;
++        public static final int expiration_picker=0x7f0f015d;
++        public static final int expiration_seperator=0x7f0f015e;
++        public static final int first=0x7f0f0169;
+         public static final int fl_box=0x7f0f0066;
+         public static final int fl_dark=0x7f0f0016;
+         public static final int fl_darker=0x7f0f0069;
+@@ -3385,27 +3385,27 @@
+         public static final int fl_ripple=0x7f0f001a;
+         public static final int fl_transparent=0x7f0f0068;
+         public static final int flat=0x7f0f0064;
+-        public static final int fourth=0x7f0f016a;
+-        public static final int freqSpinner=0x7f0f01e0;
++        public static final int fourth=0x7f0f016c;
++        public static final int freqSpinner=0x7f0f01e2;
+         public static final int fullscreen=0x7f0f0047;
+         public static final int google_wallet_classic=0x7f0f005d;
+         public static final int google_wallet_grayscale=0x7f0f005e;
+         public static final int google_wallet_monochrome=0x7f0f005f;
+         public static final int grayscale=0x7f0f0060;
+-        public static final int header=0x7f0f016b;
+-        public static final int hms_picker=0x7f0f015d;
+-        public static final int hms_text=0x7f0f015e;
++        public static final int header=0x7f0f016d;
++        public static final int hms_picker=0x7f0f015f;
++        public static final int hms_text=0x7f0f0160;
+         public static final int holo_dark=0x7f0f0049;
+         public static final int holo_light=0x7f0f004a;
+         public static final int home=0x7f0f0007;
+         public static final int homeAsUp=0x7f0f001f;
+-        public static final int horizontal_scroll_view=0x7f0f01af;
+-        public static final int hour_space=0x7f0f01d6;
+-        public static final int hours=0x7f0f01d8;
+-        public static final int hours_label=0x7f0f0160;
+-        public static final int hours_ones=0x7f0f015f;
+-        public static final int hours_seperator=0x7f0f01f8;
+-        public static final int hours_tens=0x7f0f01f7;
++        public static final int horizontal_scroll_view=0x7f0f01b1;
++        public static final int hour_space=0x7f0f01d8;
++        public static final int hours=0x7f0f01da;
++        public static final int hours_label=0x7f0f0162;
++        public static final int hours_ones=0x7f0f0161;
++        public static final int hours_seperator=0x7f0f01fa;
++        public static final int hours_tens=0x7f0f01f9;
+         public static final int hybrid=0x7f0f0031;
+         public static final int icon=0x7f0f0073;
+         public static final int icon_only=0x7f0f0041;
+@@ -3495,42 +3495,43 @@
+         public static final int imageView__y=0x7f0f00a2;
+         public static final int imageView_badge=0x7f0f00f5;
+         public static final int imageView_main=0x7f0f00f4;
+-        public static final int info=0x7f0f01ab;
+-        public static final int interval=0x7f0f01e5;
+-        public static final int intervalGroup=0x7f0f01e3;
+-        public static final int intervalPostText=0x7f0f01e6;
+-        public static final int intervalPreText=0x7f0f01e4;
+-        public static final int key_left=0x7f0f01f3;
+-        public static final int key_middle=0x7f0f01f4;
+-        public static final int key_right=0x7f0f01f5;
+-        public static final int keyboard_indicator=0x7f0f0158;
+-        public static final int keyboard_pager=0x7f0f0159;
+-        public static final int label=0x7f0f01b4;
++        public static final int info=0x7f0f01ad;
++        public static final int interval=0x7f0f01e7;
++        public static final int intervalGroup=0x7f0f01e5;
++        public static final int intervalPostText=0x7f0f01e8;
++        public static final int intervalPreText=0x7f0f01e6;
++        public static final int key_left=0x7f0f01f5;
++        public static final int key_middle=0x7f0f01f6;
++        public static final int key_right=0x7f0f01f7;
++        public static final int keyboard_indicator=0x7f0f015a;
++        public static final int keyboard_pager=0x7f0f015b;
++        public static final int label=0x7f0f01b6;
+         public static final int left=0x7f0f0035;
+         public static final int light=0x7f0f0046;
+-        public static final int line1=0x7f0f01a5;
+-        public static final int line3=0x7f0f01a9;
+-        public static final int linearLayout=0x7f0f010b;
++        public static final int line1=0x7f0f01a7;
++        public static final int line3=0x7f0f01ab;
++        public static final int linearLayout=0x7f0f010d;
+         public static final int linearLayout10=0x7f0f00fd;
+-        public static final int linearLayout11=0x7f0f0101;
++        public static final int linearLayout11=0x7f0f0103;
+         public static final int linearLayout12=0x7f0f009a;
+         public static final int linearLayout13=0x7f0f00a0;
+-        public static final int linearLayout2=0x7f0f0115;
+-        public static final int linearLayout3=0x7f0f0119;
+-        public static final int linearLayout4=0x7f0f01c9;
+-        public static final int linearLayout5=0x7f0f0123;
+-        public static final int linearLayout6=0x7f0f0128;
+-        public static final int linearLayout7=0x7f0f012e;
+-        public static final int linearLayout8=0x7f0f0135;
+-        public static final int linearLayout9=0x7f0f0121;
++        public static final int linearLayout14=0x7f0f0100;
++        public static final int linearLayout2=0x7f0f0117;
++        public static final int linearLayout3=0x7f0f011b;
++        public static final int linearLayout4=0x7f0f01cb;
++        public static final int linearLayout5=0x7f0f0125;
++        public static final int linearLayout6=0x7f0f012a;
++        public static final int linearLayout7=0x7f0f0130;
++        public static final int linearLayout8=0x7f0f0137;
++        public static final int linearLayout9=0x7f0f0123;
+         public static final int listMode=0x7f0f001b;
+         public static final int list_item=0x7f0f0072;
+-        public static final int loading=0x7f0f013a;
+-        public static final int location=0x7f0f01fc;
++        public static final int loading=0x7f0f013c;
++        public static final int location=0x7f0f01fe;
+         public static final int logo_only=0x7f0f0058;
+         public static final int margin=0x7f0f0048;
+-        public static final int mask_left=0x7f0f0140;
+-        public static final int mask_right=0x7f0f013f;
++        public static final int mask_left=0x7f0f0142;
++        public static final int mask_right=0x7f0f0141;
+         public static final int match_parent=0x7f0f0051;
+         public static final int mdActiveViewPosition=0x7f0f0008;
+         public static final int mdContent=0x7f0f0009;
+@@ -3540,77 +3541,77 @@
+         public static final int md__menu=0x7f0f000d;
+         public static final int md__translationX=0x7f0f000e;
+         public static final int md__translationY=0x7f0f000f;
+-        public static final int media_actions=0x7f0f01a3;
+-        public static final int media_route_control_frame=0x7f0f0196;
+-        public static final int media_route_list=0x7f0f0192;
+-        public static final int media_route_volume_layout=0x7f0f019b;
+-        public static final int media_route_volume_slider=0x7f0f019c;
++        public static final int media_actions=0x7f0f01a5;
++        public static final int media_route_control_frame=0x7f0f0198;
++        public static final int media_route_list=0x7f0f0194;
++        public static final int media_route_volume_layout=0x7f0f019d;
++        public static final int media_route_volume_slider=0x7f0f019e;
+         public static final int middle=0x7f0f002e;
+-        public static final int minus_label=0x7f0f01b5;
+-        public static final int minutes=0x7f0f01da;
+-        public static final int minutes_label=0x7f0f0163;
+-        public static final int minutes_ones=0x7f0f0162;
+-        public static final int minutes_space=0x7f0f01d9;
+-        public static final int minutes_tens=0x7f0f0161;
++        public static final int minus_label=0x7f0f01b7;
++        public static final int minutes=0x7f0f01dc;
++        public static final int minutes_label=0x7f0f0165;
++        public static final int minutes_ones=0x7f0f0164;
++        public static final int minutes_space=0x7f0f01db;
++        public static final int minutes_tens=0x7f0f0163;
+         public static final int monochrome=0x7f0f0061;
+-        public static final int month=0x7f0f0153;
+-        public static final int monthGroup=0x7f0f01e9;
+-        public static final int month_text_view=0x7f0f0150;
++        public static final int month=0x7f0f0155;
++        public static final int monthGroup=0x7f0f01eb;
++        public static final int month_text_view=0x7f0f0152;
+         public static final int multiply=0x7f0f0026;
+         public static final int never=0x7f0f003c;
+         public static final int none=0x7f0f0020;
+         public static final int normal=0x7f0f001c;
+-        public static final int number=0x7f0f01b1;
+-        public static final int number_picker=0x7f0f01ad;
+-        public static final int number_text=0x7f0f01b0;
+-        public static final int number_view_container=0x7f0f01ae;
++        public static final int number=0x7f0f01b3;
++        public static final int number_picker=0x7f0f01af;
++        public static final int number_text=0x7f0f01b2;
++        public static final int number_view_container=0x7f0f01b0;
+         public static final int numbers_key=0x7f0f0010;
+-        public static final int ok_cancel_buttons_layout=0x7f0f016c;
+-        public static final int options=0x7f0f01e2;
++        public static final int ok_cancel_buttons_layout=0x7f0f016e;
++        public static final int options=0x7f0f01e4;
+         public static final int parentPanel=0x7f0f0077;
+-        public static final int place_autocomplete_clear_button=0x7f0f01ce;
+-        public static final int place_autocomplete_powered_by_google=0x7f0f01d0;
+-        public static final int place_autocomplete_prediction_primary_text=0x7f0f01d2;
+-        public static final int place_autocomplete_prediction_secondary_text=0x7f0f01d3;
+-        public static final int place_autocomplete_progress=0x7f0f01d1;
+-        public static final int place_autocomplete_search_button=0x7f0f01cc;
+-        public static final int place_autocomplete_search_input=0x7f0f01cd;
+-        public static final int place_autocomplete_separator=0x7f0f01cf;
+-        public static final int play_pause=0x7f0f0199;
+-        public static final int postEndCount=0x7f0f01ef;
++        public static final int place_autocomplete_clear_button=0x7f0f01d0;
++        public static final int place_autocomplete_powered_by_google=0x7f0f01d2;
++        public static final int place_autocomplete_prediction_primary_text=0x7f0f01d4;
++        public static final int place_autocomplete_prediction_secondary_text=0x7f0f01d5;
++        public static final int place_autocomplete_progress=0x7f0f01d3;
++        public static final int place_autocomplete_search_button=0x7f0f01ce;
++        public static final int place_autocomplete_search_input=0x7f0f01cf;
++        public static final int place_autocomplete_separator=0x7f0f01d1;
++        public static final int play_pause=0x7f0f019b;
++        public static final int postEndCount=0x7f0f01f1;
+         public static final int production=0x7f0f004b;
+-        public static final int progressWheel=0x7f0f0144;
++        public static final int progressWheel=0x7f0f0146;
+         public static final int progress_circular=0x7f0f0011;
+-        public static final int progress_dialog=0x7f0f0143;
++        public static final int progress_dialog=0x7f0f0145;
+         public static final int progress_horizontal=0x7f0f0012;
+         public static final int radio=0x7f0f0085;
+-        public static final int radioButton_clk=0x7f0f0173;
+-        public static final int radioButton_in=0x7f0f0171;
+-        public static final int radioButton_out=0x7f0f0172;
+-        public static final int radioButton_rec=0x7f0f0109;
+-        public static final int radioButton_sin=0x7f0f0108;
+-        public static final int radioButton_tri=0x7f0f010a;
+-        public static final int radioGroup_mode0=0x7f0f016f;
+-        public static final int radioGroup_mode1=0x7f0f0177;
+-        public static final int radioGroup_mode2=0x7f0f017c;
+-        public static final int radioGroup_mode3=0x7f0f0181;
+-        public static final int radioGroup_mode4=0x7f0f0185;
+-        public static final int radioGroup_mode5=0x7f0f0187;
+-        public static final int radioGroup_mode6=0x7f0f0189;
+-        public static final int radioGroup_mode7=0x7f0f018b;
+-        public static final int radioGroup_wave=0x7f0f0106;
+-        public static final int repeatMonthlyByNthDayOfMonth=0x7f0f01ea;
+-        public static final int repeatMonthlyByNthDayOfTheWeek=0x7f0f01eb;
+-        public static final int repeat_switch=0x7f0f01e1;
++        public static final int radioButton_clk=0x7f0f0175;
++        public static final int radioButton_in=0x7f0f0173;
++        public static final int radioButton_out=0x7f0f0174;
++        public static final int radioButton_rec=0x7f0f010b;
++        public static final int radioButton_sin=0x7f0f010a;
++        public static final int radioButton_tri=0x7f0f010c;
++        public static final int radioGroup_mode0=0x7f0f0171;
++        public static final int radioGroup_mode1=0x7f0f0179;
++        public static final int radioGroup_mode2=0x7f0f017e;
++        public static final int radioGroup_mode3=0x7f0f0183;
++        public static final int radioGroup_mode4=0x7f0f0187;
++        public static final int radioGroup_mode5=0x7f0f0189;
++        public static final int radioGroup_mode6=0x7f0f018b;
++        public static final int radioGroup_mode7=0x7f0f018d;
++        public static final int radioGroup_wave=0x7f0f0108;
++        public static final int repeatMonthlyByNthDayOfMonth=0x7f0f01ec;
++        public static final int repeatMonthlyByNthDayOfTheWeek=0x7f0f01ed;
++        public static final int repeat_switch=0x7f0f01e3;
+         public static final int right=0x7f0f0036;
+-        public static final int route_name=0x7f0f0194;
++        public static final int route_name=0x7f0f0196;
+         public static final int sandbox=0x7f0f004c;
+         public static final int satellite=0x7f0f0032;
+         public static final int screen=0x7f0f0027;
+         public static final int scrollIndicatorDown=0x7f0f007f;
+         public static final int scrollIndicatorUp=0x7f0f007c;
+         public static final int scrollView=0x7f0f007d;
+-        public static final int searchBox=0x7f0f01fd;
++        public static final int searchBox=0x7f0f01ff;
+         public static final int search_badge=0x7f0f008f;
+         public static final int search_bar=0x7f0f008e;
+         public static final int search_button=0x7f0f0090;
+@@ -3621,141 +3622,142 @@
+         public static final int search_plate=0x7f0f0093;
+         public static final int search_src_text=0x7f0f0094;
+         public static final int search_voice_btn=0x7f0f0098;
+-        public static final int second=0x7f0f0168;
+-        public static final int seconds_label=0x7f0f0166;
+-        public static final int seconds_ones=0x7f0f0165;
+-        public static final int seconds_tens=0x7f0f0164;
+-        public static final int seekBar_dutycycle=0x7f0f0114;
++        public static final int second=0x7f0f016a;
++        public static final int seconds_label=0x7f0f0168;
++        public static final int seconds_ones=0x7f0f0167;
++        public static final int seconds_tens=0x7f0f0166;
++        public static final int seekBar_dutycycle=0x7f0f0116;
+         public static final int select_dialog_listview=0x7f0f0099;
+         public static final int selected_view=0x7f0f0013;
+         public static final int selectionDetails=0x7f0f0050;
+-        public static final int separator=0x7f0f01d7;
+-        public static final int settings=0x7f0f0195;
++        public static final int separator=0x7f0f01d9;
++        public static final int settings=0x7f0f0197;
+         public static final int shortcut=0x7f0f0084;
+         public static final int showCustom=0x7f0f0021;
+         public static final int showHome=0x7f0f0022;
+         public static final int showTitle=0x7f0f0023;
+         public static final int slide=0x7f0f002b;
+-        public static final int slidingmenumain=0x7f0f01f2;
++        public static final int slidingmenumain=0x7f0f01f4;
+         public static final int spacer=0x7f0f0076;
+-        public static final int spinner_item=0x7f0f01f1;
++        public static final int spinner_item=0x7f0f01f3;
+         public static final int split_action_bar=0x7f0f0014;
+         public static final int src_atop=0x7f0f0028;
+         public static final int src_in=0x7f0f0029;
+         public static final int src_over=0x7f0f002a;
+         public static final int standard=0x7f0f0042;
+         public static final int start=0x7f0f0037;
+-        public static final int status_bar_latest_event_content=0x7f0f01a2;
+-        public static final int stop=0x7f0f019f;
++        public static final int status_bar_latest_event_content=0x7f0f01a4;
++        public static final int stop=0x7f0f01a1;
+         public static final int strict_sandbox=0x7f0f004d;
+         public static final int submit_area=0x7f0f0096;
+-        public static final int subtitle=0x7f0f019a;
+-        public static final int success_frame=0x7f0f013e;
+-        public static final int success_tick=0x7f0f0141;
+-        public static final int switchCoupling1=0x7f0f01be;
+-        public static final int switchCoupling2=0x7f0f01c6;
+-        public static final int switch_channel=0x7f0f0105;
+-        public static final int switch_mode=0x7f0f0104;
+-        public static final int switch_out0=0x7f0f0175;
+-        public static final int switch_out1=0x7f0f017a;
+-        public static final int switch_out2=0x7f0f017f;
+-        public static final int switch_out3=0x7f0f0184;
+-        public static final int switch_out4=0x7f0f0186;
+-        public static final int switch_out5=0x7f0f0188;
+-        public static final int switch_out6=0x7f0f018a;
+-        public static final int switch_out7=0x7f0f018c;
++        public static final int subtitle=0x7f0f019c;
++        public static final int success_frame=0x7f0f0140;
++        public static final int success_tick=0x7f0f0143;
++        public static final int switchCoupling1=0x7f0f01c0;
++        public static final int switchCoupling2=0x7f0f01c8;
++        public static final int switch_channel=0x7f0f0107;
++        public static final int switch_mode=0x7f0f0106;
++        public static final int switch_out0=0x7f0f0177;
++        public static final int switch_out1=0x7f0f017c;
++        public static final int switch_out2=0x7f0f0181;
++        public static final int switch_out3=0x7f0f0186;
++        public static final int switch_out4=0x7f0f0188;
++        public static final int switch_out5=0x7f0f018a;
++        public static final int switch_out6=0x7f0f018c;
++        public static final int switch_out7=0x7f0f018e;
+         public static final int tabMode=0x7f0f001d;
+         public static final int terrain=0x7f0f0033;
+         public static final int test=0x7f0f004e;
+-        public static final int text=0x7f0f01aa;
+-        public static final int text2=0x7f0f01a8;
+-        public static final int textAmp=0x7f0f0110;
+-        public static final int textDC=0x7f0f0112;
+-        public static final int textFreq=0x7f0f010d;
++        public static final int text=0x7f0f01ac;
++        public static final int text2=0x7f0f01aa;
++        public static final int textAmp=0x7f0f0112;
++        public static final int textDC=0x7f0f0114;
++        public static final int textFreq=0x7f0f010f;
+         public static final int textSpacerNoButtons=0x7f0f007e;
+-        public static final int textTime=0x7f0f01c8;
+-        public static final int textVD1=0x7f0f01ba;
+-        public static final int textVD2=0x7f0f01c2;
++        public static final int textTime=0x7f0f01ca;
++        public static final int textVD1=0x7f0f01bc;
++        public static final int textVD2=0x7f0f01c4;
+         public static final int textView=0x7f0f00f3;
+-        public static final int textView10=0x7f0f0102;
+-        public static final int textView11=0x7f0f01b7;
+-        public static final int textView12=0x7f0f01b8;
+-        public static final int textView13=0x7f0f011f;
+-        public static final int textView14=0x7f0f01bb;
+-        public static final int textView15=0x7f0f0124;
+-        public static final int textView16=0x7f0f01bf;
+-        public static final int textView17=0x7f0f01c0;
+-        public static final int textView18=0x7f0f0126;
+-        public static final int textView19=0x7f0f01c3;
+-        public static final int textView2=0x7f0f016e;
+-        public static final int textView20=0x7f0f012a;
+-        public static final int textView21=0x7f0f01c7;
+-        public static final int textView22=0x7f0f012c;
+-        public static final int textView23=0x7f0f0122;
+-        public static final int textView24=0x7f0f012d;
+-        public static final int textView25=0x7f0f012f;
++        public static final int textView10=0x7f0f0104;
++        public static final int textView11=0x7f0f01b9;
++        public static final int textView12=0x7f0f01ba;
++        public static final int textView13=0x7f0f0121;
++        public static final int textView14=0x7f0f01bd;
++        public static final int textView15=0x7f0f0126;
++        public static final int textView16=0x7f0f01c1;
++        public static final int textView17=0x7f0f01c2;
++        public static final int textView18=0x7f0f0128;
++        public static final int textView19=0x7f0f01c5;
++        public static final int textView2=0x7f0f0170;
++        public static final int textView20=0x7f0f012c;
++        public static final int textView21=0x7f0f01c9;
++        public static final int textView22=0x7f0f012e;
++        public static final int textView23=0x7f0f0124;
++        public static final int textView24=0x7f0f012f;
++        public static final int textView25=0x7f0f0131;
+         public static final int textView26=0x7f0f009b;
+-        public static final int textView27=0x7f0f0132;
++        public static final int textView27=0x7f0f0134;
+         public static final int textView28=0x7f0f009c;
+-        public static final int textView29=0x7f0f0137;
+-        public static final int textView3=0x7f0f0107;
+-        public static final int textView30=0x7f0f0139;
++        public static final int textView29=0x7f0f0139;
++        public static final int textView3=0x7f0f0109;
++        public static final int textView30=0x7f0f013b;
+         public static final int textView31=0x7f0f00fe;
+         public static final int textView32=0x7f0f00ff;
+-        public static final int textView33=0x7f0f0103;
+-        public static final int textView34=0x7f0f0170;
+-        public static final int textView35=0x7f0f0174;
+-        public static final int textView36=0x7f0f0176;
+-        public static final int textView37=0x7f0f0178;
+-        public static final int textView38=0x7f0f0179;
+-        public static final int textView39=0x7f0f017b;
+-        public static final int textView4=0x7f0f0116;
+-        public static final int textView40=0x7f0f017d;
+-        public static final int textView41=0x7f0f017e;
+-        public static final int textView42=0x7f0f0180;
+-        public static final int textView43=0x7f0f0182;
+-        public static final int textView44=0x7f0f0183;
+-        public static final int textView5=0x7f0f010e;
+-        public static final int textView6=0x7f0f011b;
+-        public static final int textView7=0x7f0f0111;
+-        public static final int textView8=0x7f0f011d;
+-        public static final int textView9=0x7f0f0113;
+-        public static final int textView_VI_CH1=0x7f0f0125;
+-        public static final int textView_VI_CH2=0x7f0f0127;
+-        public static final int textView_VO_CH1=0x7f0f0130;
+-        public static final int textView_VO_CH2=0x7f0f0133;
+-        public static final int textView_progress=0x7f0f0118;
+-        public static final int textVolts1=0x7f0f01bd;
+-        public static final int textVolts2=0x7f0f01c5;
+-        public static final int third=0x7f0f0169;
+-        public static final int time=0x7f0f01a6;
+-        public static final int time_display=0x7f0f01d4;
+-        public static final int time_display_background=0x7f0f01de;
+-        public static final int time_offset=0x7f0f01fb;
+-        public static final int time_picker=0x7f0f01df;
+-        public static final int time_picker_dialog=0x7f0f01dd;
+-        public static final int time_zone=0x7f0f01fa;
+-        public static final int timer_time_text=0x7f0f01f6;
+-        public static final int timezonelist=0x7f0f01ff;
++        public static final int textView33=0x7f0f0105;
++        public static final int textView34=0x7f0f0172;
++        public static final int textView35=0x7f0f0176;
++        public static final int textView36=0x7f0f0178;
++        public static final int textView37=0x7f0f017a;
++        public static final int textView38=0x7f0f017b;
++        public static final int textView39=0x7f0f017d;
++        public static final int textView4=0x7f0f0118;
++        public static final int textView40=0x7f0f017f;
++        public static final int textView41=0x7f0f0180;
++        public static final int textView42=0x7f0f0182;
++        public static final int textView43=0x7f0f0184;
++        public static final int textView44=0x7f0f0185;
++        public static final int textView5=0x7f0f0110;
++        public static final int textView6=0x7f0f011d;
++        public static final int textView7=0x7f0f0113;
++        public static final int textView8=0x7f0f011f;
++        public static final int textView9=0x7f0f0115;
++        public static final int textView_VI_CH1=0x7f0f0127;
++        public static final int textView_VI_CH2=0x7f0f0129;
++        public static final int textView_VO_CH1=0x7f0f0132;
++        public static final int textView_VO_CH2=0x7f0f0135;
++        public static final int textView_progress=0x7f0f011a;
++        public static final int textView_value=0x7f0f0102;
++        public static final int textVolts1=0x7f0f01bf;
++        public static final int textVolts2=0x7f0f01c7;
++        public static final int third=0x7f0f016b;
++        public static final int time=0x7f0f01a8;
++        public static final int time_display=0x7f0f01d6;
++        public static final int time_display_background=0x7f0f01e0;
++        public static final int time_offset=0x7f0f01fd;
++        public static final int time_picker=0x7f0f01e1;
++        public static final int time_picker_dialog=0x7f0f01df;
++        public static final int time_zone=0x7f0f01fc;
++        public static final int timer_time_text=0x7f0f01f8;
++        public static final int timezonelist=0x7f0f0201;
+         public static final int title=0x7f0f0074;
+-        public static final int title_bar=0x7f0f0193;
++        public static final int title_bar=0x7f0f0195;
+         public static final int title_template=0x7f0f0079;
+-        public static final int title_text=0x7f0f0145;
++        public static final int title_text=0x7f0f0147;
+         public static final int top=0x7f0f0038;
+         public static final int topPanel=0x7f0f0078;
+         public static final int transparent=0x7f0f0065;
+         public static final int up=0x7f0f0015;
+         public static final int useLogo=0x7f0f0024;
+-        public static final int value=0x7f0f01f9;
+-        public static final int warning_frame=0x7f0f0142;
+-        public static final int weekGroup=0x7f0f01e7;
+-        public static final int weekGroup2=0x7f0f01e8;
++        public static final int value=0x7f0f01fb;
++        public static final int warning_frame=0x7f0f0144;
++        public static final int weekGroup=0x7f0f01e9;
++        public static final int weekGroup2=0x7f0f01ea;
+         public static final int wide=0x7f0f0043;
+         public static final int withText=0x7f0f003d;
+         public static final int wrap_content=0x7f0f0025;
+         public static final int x=0x7f0f003e;
+         public static final int y=0x7f0f003f;
+-        public static final int year_label=0x7f0f0155;
++        public static final int year_label=0x7f0f0157;
+         public static final int z=0x7f0f0040;
+     }
+     public static final class integer {
+Index: app/build/generated/source/r/debug/com/codetroopers/betterpickers/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/codetroopers/betterpickers/R.java	(revision )
++++ app/build/generated/source/r/debug/com/codetroopers/betterpickers/R.java	(revision )
+@@ -658,7 +658,7 @@
+ 		public static final int textfield_focused_holo_light = 0x7f0200e7;
+ 	}
+ 	public static final class id {
+-		public static final int action0 = 0x7f0f01a0;
++		public static final int action0 = 0x7f0f01a2;
+ 		public static final int action_bar = 0x7f0f008b;
+ 		public static final int action_bar_activity_content = 0x7f0f0000;
+ 		public static final int action_bar_container = 0x7f0f008a;
+@@ -667,7 +667,7 @@
+ 		public static final int action_bar_subtitle = 0x7f0f006c;
+ 		public static final int action_bar_title = 0x7f0f006b;
+ 		public static final int action_context_bar = 0x7f0f008c;
+-		public static final int action_divider = 0x7f0f01a4;
++		public static final int action_divider = 0x7f0f01a6;
+ 		public static final int action_menu_divider = 0x7f0f0002;
+ 		public static final int action_menu_presenter = 0x7f0f0003;
+ 		public static final int action_mode_bar = 0x7f0f0088;
+@@ -676,122 +676,122 @@
+ 		public static final int activity_chooser_view_content = 0x7f0f006e;
+ 		public static final int alertTitle = 0x7f0f007a;
+ 		public static final int always = 0x7f0f0039;
+-		public static final int ampm_hitspace = 0x7f0f01db;
+-		public static final int ampm_label = 0x7f0f01dc;
+-		public static final int animator = 0x7f0f014f;
++		public static final int ampm_hitspace = 0x7f0f01dd;
++		public static final int ampm_label = 0x7f0f01de;
++		public static final int animator = 0x7f0f0151;
+ 		public static final int beginning = 0x7f0f002c;
+ 		public static final int buttonPanel = 0x7f0f0075;
+-		public static final int cancel_action = 0x7f0f01a1;
+-		public static final int cancel_button = 0x7f0f0147;
+-		public static final int center_view = 0x7f0f01d5;
++		public static final int cancel_action = 0x7f0f01a3;
++		public static final int cancel_button = 0x7f0f0149;
++		public static final int center_view = 0x7f0f01d7;
+ 		public static final int checkbox = 0x7f0f0083;
+-		public static final int chronometer = 0x7f0f01a7;
+-		public static final int clear_search = 0x7f0f01fe;
++		public static final int chronometer = 0x7f0f01a9;
++		public static final int clear_search = 0x7f0f0200;
+ 		public static final int collapseActionView = 0x7f0f003a;
+ 		public static final int contentPanel = 0x7f0f007b;
+ 		public static final int custom = 0x7f0f0081;
+ 		public static final int customPanel = 0x7f0f0080;
+-		public static final int date = 0x7f0f0154;
++		public static final int date = 0x7f0f0156;
+ 		public static final int date_keyboard = 0x7f0f0005;
+ 		public static final int date_month_int = 0x7f0f0006;
+-		public static final int date_picker = 0x7f0f0151;
+-		public static final int date_picker_day = 0x7f0f014d;
+-		public static final int date_picker_header = 0x7f0f0149;
+-		public static final int date_picker_month = 0x7f0f014c;
+-		public static final int date_picker_month_and_day = 0x7f0f014b;
+-		public static final int date_picker_year = 0x7f0f014e;
+-		public static final int date_text = 0x7f0f0152;
+-		public static final int day_picker_selected_date_layout = 0x7f0f014a;
+-		public static final int decimal = 0x7f0f01b3;
+-		public static final int decimal_separator = 0x7f0f01b2;
++		public static final int date_picker = 0x7f0f0153;
++		public static final int date_picker_day = 0x7f0f014f;
++		public static final int date_picker_header = 0x7f0f014b;
++		public static final int date_picker_month = 0x7f0f014e;
++		public static final int date_picker_month_and_day = 0x7f0f014d;
++		public static final int date_picker_year = 0x7f0f0150;
++		public static final int date_text = 0x7f0f0154;
++		public static final int day_picker_selected_date_layout = 0x7f0f014c;
++		public static final int decimal = 0x7f0f01b5;
++		public static final int decimal_separator = 0x7f0f01b4;
+ 		public static final int decor_content_parent = 0x7f0f0089;
+ 		public static final int default_activity_button = 0x7f0f0071;
+-		public static final int delete = 0x7f0f0156;
++		public static final int delete = 0x7f0f0158;
+ 		public static final int disableHome = 0x7f0f001e;
+-		public static final int divider = 0x7f0f0157;
+-		public static final int done_button = 0x7f0f016d;
++		public static final int divider = 0x7f0f0159;
++		public static final int done_button = 0x7f0f016f;
+ 		public static final int edit_query = 0x7f0f008d;
+-		public static final int empty_item = 0x7f0f015a;
++		public static final int empty_item = 0x7f0f015c;
+ 		public static final int end = 0x7f0f002d;
+-		public static final int endCount = 0x7f0f01ee;
+-		public static final int endDate = 0x7f0f01f0;
+-		public static final int endGroup = 0x7f0f01ec;
+-		public static final int endSpinner = 0x7f0f01ed;
+-		public static final int end_padder = 0x7f0f01ac;
+-		public static final int error = 0x7f0f01b6;
++		public static final int endCount = 0x7f0f01f0;
++		public static final int endDate = 0x7f0f01f2;
++		public static final int endGroup = 0x7f0f01ee;
++		public static final int endSpinner = 0x7f0f01ef;
++		public static final int end_padder = 0x7f0f01ae;
++		public static final int error = 0x7f0f01b8;
+ 		public static final int expand_activities_button = 0x7f0f006f;
+ 		public static final int expanded_menu = 0x7f0f0082;
+-		public static final int expiration_picker = 0x7f0f015b;
+-		public static final int expiration_seperator = 0x7f0f015c;
+-		public static final int first = 0x7f0f0167;
+-		public static final int fourth = 0x7f0f016a;
+-		public static final int freqSpinner = 0x7f0f01e0;
+-		public static final int header = 0x7f0f016b;
+-		public static final int hms_picker = 0x7f0f015d;
+-		public static final int hms_text = 0x7f0f015e;
++		public static final int expiration_picker = 0x7f0f015d;
++		public static final int expiration_seperator = 0x7f0f015e;
++		public static final int first = 0x7f0f0169;
++		public static final int fourth = 0x7f0f016c;
++		public static final int freqSpinner = 0x7f0f01e2;
++		public static final int header = 0x7f0f016d;
++		public static final int hms_picker = 0x7f0f015f;
++		public static final int hms_text = 0x7f0f0160;
+ 		public static final int home = 0x7f0f0007;
+ 		public static final int homeAsUp = 0x7f0f001f;
+-		public static final int horizontal_scroll_view = 0x7f0f01af;
+-		public static final int hour_space = 0x7f0f01d6;
+-		public static final int hours = 0x7f0f01d8;
+-		public static final int hours_label = 0x7f0f0160;
+-		public static final int hours_ones = 0x7f0f015f;
+-		public static final int hours_seperator = 0x7f0f01f8;
+-		public static final int hours_tens = 0x7f0f01f7;
++		public static final int horizontal_scroll_view = 0x7f0f01b1;
++		public static final int hour_space = 0x7f0f01d8;
++		public static final int hours = 0x7f0f01da;
++		public static final int hours_label = 0x7f0f0162;
++		public static final int hours_ones = 0x7f0f0161;
++		public static final int hours_seperator = 0x7f0f01fa;
++		public static final int hours_tens = 0x7f0f01f9;
+ 		public static final int icon = 0x7f0f0073;
+ 		public static final int ifRoom = 0x7f0f003b;
+ 		public static final int image = 0x7f0f0070;
+-		public static final int info = 0x7f0f01ab;
+-		public static final int interval = 0x7f0f01e5;
+-		public static final int intervalGroup = 0x7f0f01e3;
+-		public static final int intervalPostText = 0x7f0f01e6;
+-		public static final int intervalPreText = 0x7f0f01e4;
+-		public static final int key_left = 0x7f0f01f3;
+-		public static final int key_middle = 0x7f0f01f4;
+-		public static final int key_right = 0x7f0f01f5;
+-		public static final int keyboard_indicator = 0x7f0f0158;
+-		public static final int keyboard_pager = 0x7f0f0159;
+-		public static final int label = 0x7f0f01b4;
+-		public static final int line1 = 0x7f0f01a5;
+-		public static final int line3 = 0x7f0f01a9;
++		public static final int info = 0x7f0f01ad;
++		public static final int interval = 0x7f0f01e7;
++		public static final int intervalGroup = 0x7f0f01e5;
++		public static final int intervalPostText = 0x7f0f01e8;
++		public static final int intervalPreText = 0x7f0f01e6;
++		public static final int key_left = 0x7f0f01f5;
++		public static final int key_middle = 0x7f0f01f6;
++		public static final int key_right = 0x7f0f01f7;
++		public static final int keyboard_indicator = 0x7f0f015a;
++		public static final int keyboard_pager = 0x7f0f015b;
++		public static final int label = 0x7f0f01b6;
++		public static final int line1 = 0x7f0f01a7;
++		public static final int line3 = 0x7f0f01ab;
+ 		public static final int listMode = 0x7f0f001b;
+ 		public static final int list_item = 0x7f0f0072;
+-		public static final int location = 0x7f0f01fc;
+-		public static final int media_actions = 0x7f0f01a3;
++		public static final int location = 0x7f0f01fe;
++		public static final int media_actions = 0x7f0f01a5;
+ 		public static final int middle = 0x7f0f002e;
+-		public static final int minus_label = 0x7f0f01b5;
+-		public static final int minutes = 0x7f0f01da;
+-		public static final int minutes_label = 0x7f0f0163;
+-		public static final int minutes_ones = 0x7f0f0162;
+-		public static final int minutes_space = 0x7f0f01d9;
+-		public static final int minutes_tens = 0x7f0f0161;
+-		public static final int month = 0x7f0f0153;
+-		public static final int monthGroup = 0x7f0f01e9;
+-		public static final int month_text_view = 0x7f0f0150;
++		public static final int minus_label = 0x7f0f01b7;
++		public static final int minutes = 0x7f0f01dc;
++		public static final int minutes_label = 0x7f0f0165;
++		public static final int minutes_ones = 0x7f0f0164;
++		public static final int minutes_space = 0x7f0f01db;
++		public static final int minutes_tens = 0x7f0f0163;
++		public static final int month = 0x7f0f0155;
++		public static final int monthGroup = 0x7f0f01eb;
++		public static final int month_text_view = 0x7f0f0152;
+ 		public static final int multiply = 0x7f0f0026;
+ 		public static final int never = 0x7f0f003c;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+-		public static final int number = 0x7f0f01b1;
+-		public static final int number_picker = 0x7f0f01ad;
+-		public static final int number_text = 0x7f0f01b0;
+-		public static final int number_view_container = 0x7f0f01ae;
++		public static final int number = 0x7f0f01b3;
++		public static final int number_picker = 0x7f0f01af;
++		public static final int number_text = 0x7f0f01b2;
++		public static final int number_view_container = 0x7f0f01b0;
+ 		public static final int numbers_key = 0x7f0f0010;
+-		public static final int ok_cancel_buttons_layout = 0x7f0f016c;
+-		public static final int options = 0x7f0f01e2;
++		public static final int ok_cancel_buttons_layout = 0x7f0f016e;
++		public static final int options = 0x7f0f01e4;
+ 		public static final int parentPanel = 0x7f0f0077;
+-		public static final int postEndCount = 0x7f0f01ef;
++		public static final int postEndCount = 0x7f0f01f1;
+ 		public static final int progress_circular = 0x7f0f0011;
+ 		public static final int progress_horizontal = 0x7f0f0012;
+ 		public static final int radio = 0x7f0f0085;
+-		public static final int repeatMonthlyByNthDayOfMonth = 0x7f0f01ea;
+-		public static final int repeatMonthlyByNthDayOfTheWeek = 0x7f0f01eb;
+-		public static final int repeat_switch = 0x7f0f01e1;
++		public static final int repeatMonthlyByNthDayOfMonth = 0x7f0f01ec;
++		public static final int repeatMonthlyByNthDayOfTheWeek = 0x7f0f01ed;
++		public static final int repeat_switch = 0x7f0f01e3;
+ 		public static final int screen = 0x7f0f0027;
+ 		public static final int scrollIndicatorDown = 0x7f0f007f;
+ 		public static final int scrollIndicatorUp = 0x7f0f007c;
+ 		public static final int scrollView = 0x7f0f007d;
+-		public static final int searchBox = 0x7f0f01fd;
++		public static final int searchBox = 0x7f0f01ff;
+ 		public static final int search_badge = 0x7f0f008f;
+ 		public static final int search_bar = 0x7f0f008e;
+ 		public static final int search_button = 0x7f0f0090;
+@@ -802,49 +802,49 @@
+ 		public static final int search_plate = 0x7f0f0093;
+ 		public static final int search_src_text = 0x7f0f0094;
+ 		public static final int search_voice_btn = 0x7f0f0098;
+-		public static final int second = 0x7f0f0168;
+-		public static final int seconds_label = 0x7f0f0166;
+-		public static final int seconds_ones = 0x7f0f0165;
+-		public static final int seconds_tens = 0x7f0f0164;
++		public static final int second = 0x7f0f016a;
++		public static final int seconds_label = 0x7f0f0168;
++		public static final int seconds_ones = 0x7f0f0167;
++		public static final int seconds_tens = 0x7f0f0166;
+ 		public static final int select_dialog_listview = 0x7f0f0099;
+-		public static final int separator = 0x7f0f01d7;
++		public static final int separator = 0x7f0f01d9;
+ 		public static final int shortcut = 0x7f0f0084;
+ 		public static final int showCustom = 0x7f0f0021;
+ 		public static final int showHome = 0x7f0f0022;
+ 		public static final int showTitle = 0x7f0f0023;
+ 		public static final int spacer = 0x7f0f0076;
+-		public static final int spinner_item = 0x7f0f01f1;
++		public static final int spinner_item = 0x7f0f01f3;
+ 		public static final int split_action_bar = 0x7f0f0014;
+ 		public static final int src_atop = 0x7f0f0028;
+ 		public static final int src_in = 0x7f0f0029;
+ 		public static final int src_over = 0x7f0f002a;
+-		public static final int status_bar_latest_event_content = 0x7f0f01a2;
++		public static final int status_bar_latest_event_content = 0x7f0f01a4;
+ 		public static final int submit_area = 0x7f0f0096;
+ 		public static final int tabMode = 0x7f0f001d;
+-		public static final int text = 0x7f0f01aa;
+-		public static final int text2 = 0x7f0f01a8;
++		public static final int text = 0x7f0f01ac;
++		public static final int text2 = 0x7f0f01aa;
+ 		public static final int textSpacerNoButtons = 0x7f0f007e;
+-		public static final int third = 0x7f0f0169;
+-		public static final int time = 0x7f0f01a6;
+-		public static final int time_display = 0x7f0f01d4;
+-		public static final int time_display_background = 0x7f0f01de;
+-		public static final int time_offset = 0x7f0f01fb;
+-		public static final int time_picker = 0x7f0f01df;
+-		public static final int time_picker_dialog = 0x7f0f01dd;
+-		public static final int time_zone = 0x7f0f01fa;
+-		public static final int timer_time_text = 0x7f0f01f6;
+-		public static final int timezonelist = 0x7f0f01ff;
++		public static final int third = 0x7f0f016b;
++		public static final int time = 0x7f0f01a8;
++		public static final int time_display = 0x7f0f01d6;
++		public static final int time_display_background = 0x7f0f01e0;
++		public static final int time_offset = 0x7f0f01fd;
++		public static final int time_picker = 0x7f0f01e1;
++		public static final int time_picker_dialog = 0x7f0f01df;
++		public static final int time_zone = 0x7f0f01fc;
++		public static final int timer_time_text = 0x7f0f01f8;
++		public static final int timezonelist = 0x7f0f0201;
+ 		public static final int title = 0x7f0f0074;
+ 		public static final int title_template = 0x7f0f0079;
+ 		public static final int topPanel = 0x7f0f0078;
+ 		public static final int up = 0x7f0f0015;
+ 		public static final int useLogo = 0x7f0f0024;
+-		public static final int value = 0x7f0f01f9;
+-		public static final int weekGroup = 0x7f0f01e7;
+-		public static final int weekGroup2 = 0x7f0f01e8;
++		public static final int value = 0x7f0f01fb;
++		public static final int weekGroup = 0x7f0f01e9;
++		public static final int weekGroup2 = 0x7f0f01ea;
+ 		public static final int withText = 0x7f0f003d;
+ 		public static final int wrap_content = 0x7f0f0025;
+-		public static final int year_label = 0x7f0f0155;
++		public static final int year_label = 0x7f0f0157;
+ 	}
+ 	public static final class integer {
+ 		public static final int abc_config_activityDefaultDur = 0x7f0d0001;
+Index: app/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java	(revision )
++++ app/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java	(revision )
+@@ -29,7 +29,7 @@
+ 		public static final int margin = 0x7f0f0048;
+ 		public static final int right = 0x7f0f0036;
+ 		public static final int selected_view = 0x7f0f0013;
+-		public static final int slidingmenumain = 0x7f0f01f2;
++		public static final int slidingmenumain = 0x7f0f01f4;
+ 	}
+ 	public static final class layout {
+ 		public static final int slidingmenumain = 0x7f04004e;
+Index: app/build/generated/source/r/debug/android/support/v7/appcompat/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/android/support/v7/appcompat/R.java	(revision )
++++ app/build/generated/source/r/debug/android/support/v7/appcompat/R.java	(revision )
+@@ -468,7 +468,7 @@
+ 		public static final int notification_template_icon_bg = 0x7f0200ea;
+ 	}
+ 	public static final class id {
+-		public static final int action0 = 0x7f0f01a0;
++		public static final int action0 = 0x7f0f01a2;
+ 		public static final int action_bar = 0x7f0f008b;
+ 		public static final int action_bar_activity_content = 0x7f0f0000;
+ 		public static final int action_bar_container = 0x7f0f008a;
+@@ -477,7 +477,7 @@
+ 		public static final int action_bar_subtitle = 0x7f0f006c;
+ 		public static final int action_bar_title = 0x7f0f006b;
+ 		public static final int action_context_bar = 0x7f0f008c;
+-		public static final int action_divider = 0x7f0f01a4;
++		public static final int action_divider = 0x7f0f01a6;
+ 		public static final int action_menu_divider = 0x7f0f0002;
+ 		public static final int action_menu_presenter = 0x7f0f0003;
+ 		public static final int action_mode_bar = 0x7f0f0088;
+@@ -488,9 +488,9 @@
+ 		public static final int always = 0x7f0f0039;
+ 		public static final int beginning = 0x7f0f002c;
+ 		public static final int buttonPanel = 0x7f0f0075;
+-		public static final int cancel_action = 0x7f0f01a1;
++		public static final int cancel_action = 0x7f0f01a3;
+ 		public static final int checkbox = 0x7f0f0083;
+-		public static final int chronometer = 0x7f0f01a7;
++		public static final int chronometer = 0x7f0f01a9;
+ 		public static final int collapseActionView = 0x7f0f003a;
+ 		public static final int contentPanel = 0x7f0f007b;
+ 		public static final int custom = 0x7f0f0081;
+@@ -500,7 +500,7 @@
+ 		public static final int disableHome = 0x7f0f001e;
+ 		public static final int edit_query = 0x7f0f008d;
+ 		public static final int end = 0x7f0f002d;
+-		public static final int end_padder = 0x7f0f01ac;
++		public static final int end_padder = 0x7f0f01ae;
+ 		public static final int expand_activities_button = 0x7f0f006f;
+ 		public static final int expanded_menu = 0x7f0f0082;
+ 		public static final int home = 0x7f0f0007;
+@@ -508,12 +508,12 @@
+ 		public static final int icon = 0x7f0f0073;
+ 		public static final int ifRoom = 0x7f0f003b;
+ 		public static final int image = 0x7f0f0070;
+-		public static final int info = 0x7f0f01ab;
+-		public static final int line1 = 0x7f0f01a5;
+-		public static final int line3 = 0x7f0f01a9;
++		public static final int info = 0x7f0f01ad;
++		public static final int line1 = 0x7f0f01a7;
++		public static final int line3 = 0x7f0f01ab;
+ 		public static final int listMode = 0x7f0f001b;
+ 		public static final int list_item = 0x7f0f0072;
+-		public static final int media_actions = 0x7f0f01a3;
++		public static final int media_actions = 0x7f0f01a5;
+ 		public static final int middle = 0x7f0f002e;
+ 		public static final int multiply = 0x7f0f0026;
+ 		public static final int never = 0x7f0f003c;
+@@ -547,13 +547,13 @@
+ 		public static final int src_atop = 0x7f0f0028;
+ 		public static final int src_in = 0x7f0f0029;
+ 		public static final int src_over = 0x7f0f002a;
+-		public static final int status_bar_latest_event_content = 0x7f0f01a2;
++		public static final int status_bar_latest_event_content = 0x7f0f01a4;
+ 		public static final int submit_area = 0x7f0f0096;
+ 		public static final int tabMode = 0x7f0f001d;
+-		public static final int text = 0x7f0f01aa;
+-		public static final int text2 = 0x7f0f01a8;
++		public static final int text = 0x7f0f01ac;
++		public static final int text2 = 0x7f0f01aa;
+ 		public static final int textSpacerNoButtons = 0x7f0f007e;
+-		public static final int time = 0x7f0f01a6;
++		public static final int time = 0x7f0f01a8;
+ 		public static final int title = 0x7f0f0074;
+ 		public static final int title_template = 0x7f0f0079;
+ 		public static final int topPanel = 0x7f0f0078;
+Index: app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java	(revision )
++++ app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java	(revision )
+@@ -485,7 +485,7 @@
+ 		public static final int notification_template_icon_bg = 0x7f0200ea;
+ 	}
+ 	public static final class id {
+-		public static final int action0 = 0x7f0f01a0;
++		public static final int action0 = 0x7f0f01a2;
+ 		public static final int action_bar = 0x7f0f008b;
+ 		public static final int action_bar_activity_content = 0x7f0f0000;
+ 		public static final int action_bar_container = 0x7f0f008a;
+@@ -494,7 +494,7 @@
+ 		public static final int action_bar_subtitle = 0x7f0f006c;
+ 		public static final int action_bar_title = 0x7f0f006b;
+ 		public static final int action_context_bar = 0x7f0f008c;
+-		public static final int action_divider = 0x7f0f01a4;
++		public static final int action_divider = 0x7f0f01a6;
+ 		public static final int action_menu_divider = 0x7f0f0002;
+ 		public static final int action_menu_presenter = 0x7f0f0003;
+ 		public static final int action_mode_bar = 0x7f0f0088;
+@@ -503,25 +503,25 @@
+ 		public static final int activity_chooser_view_content = 0x7f0f006e;
+ 		public static final int alertTitle = 0x7f0f007a;
+ 		public static final int always = 0x7f0f0039;
+-		public static final int art = 0x7f0f0198;
++		public static final int art = 0x7f0f019a;
+ 		public static final int beginning = 0x7f0f002c;
+ 		public static final int buttonPanel = 0x7f0f0075;
+-		public static final int buttons = 0x7f0f019d;
+-		public static final int cancel_action = 0x7f0f01a1;
++		public static final int buttons = 0x7f0f019f;
++		public static final int cancel_action = 0x7f0f01a3;
+ 		public static final int checkbox = 0x7f0f0083;
+-		public static final int chronometer = 0x7f0f01a7;
++		public static final int chronometer = 0x7f0f01a9;
+ 		public static final int collapseActionView = 0x7f0f003a;
+ 		public static final int contentPanel = 0x7f0f007b;
+ 		public static final int custom = 0x7f0f0081;
+ 		public static final int customPanel = 0x7f0f0080;
+ 		public static final int decor_content_parent = 0x7f0f0089;
+ 		public static final int default_activity_button = 0x7f0f0071;
+-		public static final int default_control_frame = 0x7f0f0197;
++		public static final int default_control_frame = 0x7f0f0199;
+ 		public static final int disableHome = 0x7f0f001e;
+-		public static final int disconnect = 0x7f0f019e;
++		public static final int disconnect = 0x7f0f01a0;
+ 		public static final int edit_query = 0x7f0f008d;
+ 		public static final int end = 0x7f0f002d;
+-		public static final int end_padder = 0x7f0f01ac;
++		public static final int end_padder = 0x7f0f01ae;
+ 		public static final int expand_activities_button = 0x7f0f006f;
+ 		public static final int expanded_menu = 0x7f0f0082;
+ 		public static final int home = 0x7f0f0007;
+@@ -529,27 +529,27 @@
+ 		public static final int icon = 0x7f0f0073;
+ 		public static final int ifRoom = 0x7f0f003b;
+ 		public static final int image = 0x7f0f0070;
+-		public static final int info = 0x7f0f01ab;
+-		public static final int line1 = 0x7f0f01a5;
+-		public static final int line3 = 0x7f0f01a9;
++		public static final int info = 0x7f0f01ad;
++		public static final int line1 = 0x7f0f01a7;
++		public static final int line3 = 0x7f0f01ab;
+ 		public static final int listMode = 0x7f0f001b;
+ 		public static final int list_item = 0x7f0f0072;
+-		public static final int media_actions = 0x7f0f01a3;
+-		public static final int media_route_control_frame = 0x7f0f0196;
+-		public static final int media_route_list = 0x7f0f0192;
+-		public static final int media_route_volume_layout = 0x7f0f019b;
+-		public static final int media_route_volume_slider = 0x7f0f019c;
++		public static final int media_actions = 0x7f0f01a5;
++		public static final int media_route_control_frame = 0x7f0f0198;
++		public static final int media_route_list = 0x7f0f0194;
++		public static final int media_route_volume_layout = 0x7f0f019d;
++		public static final int media_route_volume_slider = 0x7f0f019e;
+ 		public static final int middle = 0x7f0f002e;
+ 		public static final int multiply = 0x7f0f0026;
+ 		public static final int never = 0x7f0f003c;
+ 		public static final int none = 0x7f0f0020;
+ 		public static final int normal = 0x7f0f001c;
+ 		public static final int parentPanel = 0x7f0f0077;
+-		public static final int play_pause = 0x7f0f0199;
++		public static final int play_pause = 0x7f0f019b;
+ 		public static final int progress_circular = 0x7f0f0011;
+ 		public static final int progress_horizontal = 0x7f0f0012;
+ 		public static final int radio = 0x7f0f0085;
+-		public static final int route_name = 0x7f0f0194;
++		public static final int route_name = 0x7f0f0196;
+ 		public static final int screen = 0x7f0f0027;
+ 		public static final int scrollView = 0x7f0f007d;
+ 		public static final int search_badge = 0x7f0f008f;
+@@ -563,7 +563,7 @@
+ 		public static final int search_src_text = 0x7f0f0094;
+ 		public static final int search_voice_btn = 0x7f0f0098;
+ 		public static final int select_dialog_listview = 0x7f0f0099;
+-		public static final int settings = 0x7f0f0195;
++		public static final int settings = 0x7f0f0197;
+ 		public static final int shortcut = 0x7f0f0084;
+ 		public static final int showCustom = 0x7f0f0021;
+ 		public static final int showHome = 0x7f0f0022;
+@@ -572,17 +572,17 @@
+ 		public static final int src_atop = 0x7f0f0028;
+ 		public static final int src_in = 0x7f0f0029;
+ 		public static final int src_over = 0x7f0f002a;
+-		public static final int status_bar_latest_event_content = 0x7f0f01a2;
+-		public static final int stop = 0x7f0f019f;
++		public static final int status_bar_latest_event_content = 0x7f0f01a4;
++		public static final int stop = 0x7f0f01a1;
+ 		public static final int submit_area = 0x7f0f0096;
+-		public static final int subtitle = 0x7f0f019a;
++		public static final int subtitle = 0x7f0f019c;
+ 		public static final int tabMode = 0x7f0f001d;
+-		public static final int text = 0x7f0f01aa;
+-		public static final int text2 = 0x7f0f01a8;
++		public static final int text = 0x7f0f01ac;
++		public static final int text2 = 0x7f0f01aa;
+ 		public static final int textSpacerNoButtons = 0x7f0f007e;
+-		public static final int time = 0x7f0f01a6;
++		public static final int time = 0x7f0f01a8;
+ 		public static final int title = 0x7f0f0074;
+-		public static final int title_bar = 0x7f0f0193;
++		public static final int title_bar = 0x7f0f0195;
+ 		public static final int title_template = 0x7f0f0079;
+ 		public static final int topPanel = 0x7f0f0078;
+ 		public static final int up = 0x7f0f0015;

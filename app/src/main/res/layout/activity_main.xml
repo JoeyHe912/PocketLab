@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by GONGYIN HE （何功垠） in 2016
+  ~ Copyright (c) 2016. All right reserved.
+  ~
+  ~ Last modified 16-5-23 下午9:37
+  -->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:flatui="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="8dp"
+    tools:context="com.joeyhe.pocketlab.MainActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="PocketLab"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03"
+        android:id="@+id/textView" />
+
+    <ImageView
+        android:layout_width="164dp"
+        android:layout_height="80dp"
+        android:src="@drawable/pic1"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/imageView_main"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/imageView_main"
+        android:layout_alignBottom="@+id/imageView_badge">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <com.cengalabs.flatui.views.FlatButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Oscilloscope\n示波器"
+                android:id="@+id/button_Osc"
+                android:layout_columnSpan="2"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="2dp"
+                flatui:fl_textAppearance="fl_light"
+                flatui:fl_blockButtonEffectHeight="4dp"
+                android:onClick="click" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <com.cengalabs.flatui.views.FlatButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Signal Generator\n信号发生器"
+                android:id="@+id/button_Sig"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="2dp"
+                flatui:fl_textAppearance="fl_light"
+                flatui:fl_blockButtonEffectHeight="4dp"
+                android:onClick="click"
+                android:layout_weight="1" />
+
+            <com.cengalabs.flatui.views.FlatButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Logic Analyzer\n逻辑分析仪"
+                android:id="@+id/button_Log"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="2dp"
+                flatui:fl_textAppearance="fl_light"
+                flatui:fl_blockButtonEffectHeight="4dp"
+                android:onClick="click"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <com.cengalabs.flatui.views.FlatButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Bode Plotter\n波特图仪"
+                android:id="@+id/button_Bode"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="2dp"
+                flatui:fl_textAppearance="fl_light"
+                flatui:fl_blockButtonEffectHeight="4dp"
+                android:onClick="click"
+                android:layout_weight="1" />
+
+            <com.cengalabs.flatui.views.FlatButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="DC Voltmeter\n直流电压表"
+                android:id="@+id/button_DC"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                android:layout_gravity="fill"
+                android:layout_margin="2dp"
+                flatui:fl_textAppearance="fl_light"
+                flatui:fl_blockButtonEffectHeight="4dp"
+                android:onClick="click"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/buttonhelp"
+        android:background="@drawable/help25"
+        android:clickable="true"
+        android:onClick="buttonhelp_Click"
+        android:layout_above="@+id/imageView_main"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/buttonswitch"
+        android:background="@drawable/switch_off"
+        android:clickable="true"
+        android:layout_above="@+id/imageView_main"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/imageView_badge"
+        android:src="@mipmap/badge"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true" />
+
+
+</RelativeLayout>

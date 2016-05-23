@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_optionspicker.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\include_optionspicker.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_timepicker.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\include_timepicker.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pw_time.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pw_time.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pw_options.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pw_options.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_optionspicker.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\include_optionspicker.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pw_time.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pw_time.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pw_options.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pw_options.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_timepicker.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\include_timepicker.xml"
+    }
+]

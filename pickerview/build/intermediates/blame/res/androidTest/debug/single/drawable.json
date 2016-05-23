@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_timebtn.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_timebtn.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_line_timepicker.png",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_line_timepicker.png"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_line_timepicker.png",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_line_timepicker.png"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_above_timepicker.png",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_above_timepicker.png"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_above_timepicker.png",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_above_timepicker.png"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_timebtn.xml",
+        "source": "H:\\ASprojects\\IosSegment\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_timebtn.xml"
+    },
+    {
+        "merged": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "H:\\ASprojects\\PocketLab\\pickerview\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    }
+]

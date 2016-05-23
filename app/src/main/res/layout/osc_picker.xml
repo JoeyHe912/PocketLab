@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by GONGYIN HE （何功垠） in 2016
+  ~ Copyright (c) 2016. All right reserved.
+  ~
+  ~ Last modified 16-5-23 下午9:37
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="CH1 Settings"
+                android:id="@+id/textView11"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="7dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="7dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="垂直位移"
+                        android:id="@+id/textView12"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="3dp" />
+
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="45dp"
+                        android:id="@+id/button_vd1"
+                        android:background="@mipmap/knob"
+                        android:layout_gravity="center_horizontal"
+                        android:onClick="Click_vd"
+                        android:layout_marginBottom="3dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="0 mV"
+                        android:id="@+id/textVD1"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="#fcf003" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Volts/Div"
+                        android:id="@+id/textView14"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="3dp" />
+
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="45dp"
+                        android:id="@+id/button_volts1"
+                        android:background="@mipmap/knob"
+                        android:layout_gravity="center_horizontal"
+                        android:onClick="Click_volts"
+                        android:layout_marginBottom="3dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="1 V"
+                        android:id="@+id/textVolts1"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="#fcf003" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="耦合方式"
+                android:id="@+id/switchCoupling1"
+                android:checked="false"
+                android:textOff="AC"
+                android:textOn="DC"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:showText="true"
+                android:switchPadding="5dp"
+                android:switchMinWidth="45dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="CH2 Settings"
+                android:id="@+id/textView16"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="7dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="7dp" >
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="垂直位移"
+                        android:id="@+id/textView17"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="3dp" />
+
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="45dp"
+                        android:id="@+id/button_vd2"
+                        android:background="@mipmap/knob"
+                        android:layout_gravity="center_horizontal"
+                        android:onClick="Click_vd"
+                        android:layout_marginBottom="3dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="0 mV"
+                        android:id="@+id/textVD2"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="#fcf003" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Volts/Div"
+                        android:id="@+id/textView19"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="3dp" />
+
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="45dp"
+                        android:id="@+id/button_volts2"
+                        android:background="@mipmap/knob"
+                        android:layout_gravity="center_horizontal"
+                        android:onClick="Click_volts"
+                        android:layout_marginBottom="3dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="1 V"
+                        android:id="@+id/textVolts2"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="#fcf003" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="耦合方式"
+                android:id="@+id/switchCoupling2"
+                android:checked="false"
+                android:textOff="AC"
+                android:textOn="DC"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:showText="true"
+                android:switchPadding="5dp"
+                android:switchMinWidth="45dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="TIME/DIV"
+                android:id="@+id/textView21"
+                android:layout_marginBottom="3dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="7dp" >
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <Button
+                    android:layout_width="80dp"
+                    android:layout_height="91dp"
+                    android:id="@+id/button7"
+                    android:background="@mipmap/knob"
+                    android:layout_gravity="center_horizontal"
+                    android:onClick="Click_TIME"
+                    android:layout_marginBottom="7dp"
+                    android:layout_marginLeft="0dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="1 ms"
+                    android:id="@+id/textTime"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#fcf003" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout4"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="15dp" >
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button_OscRun"
+                    android:background="@drawable/start"
+                    android:layout_marginBottom="2dp"
+                    android:onClick="Click_runOsc" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp" >
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button_OscStop"
+                    android:background="@drawable/stop"
+                    android:layout_marginBottom="2dp"
+                    android:onClick="Click_stopOsc" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_oscO"
+            android:src="@drawable/off"
+            android:layout_marginStart="48dp"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/linearLayout4" />
+    </RelativeLayout>
+
+</LinearLayout>

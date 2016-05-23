@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by GONGYIN HE （何功垠） in 2016
+  ~ Copyright (c) 2016. All right reserved.
+  ~
+  ~ Last modified 16-5-23 下午9:37
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="5dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Oscilloscope\n示波器"
+        android:id="@+id/button2Osc"
+        android:layout_weight="1"
+        android:onClick="Click_menu" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Signal Generator\n信号发生器"
+        android:id="@+id/button2Sin"
+        android:layout_weight="1"
+        android:onClick="Click_menu" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Logic Analyzer\n逻辑分析仪"
+        android:id="@+id/button2Log"
+        android:layout_weight="1"
+        android:onClick="Click_menu" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bode Plotter\n波特图仪"
+        android:id="@+id/button2Bode"
+        android:layout_weight="1"
+        android:onClick="Click_menu" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="DC Voltmeter\n直流电压表"
+        android:id="@+id/button2DC"
+        android:layout_weight="1"
+        android:onClick="Click_menu" />
+</LinearLayout>
