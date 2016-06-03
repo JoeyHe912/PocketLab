@@ -3,7 +3,7 @@
   ~ Created by GONGYIN HE （何功垠） in 2016
   ~ Copyright (c) 2016. All right reserved.
   ~
-  ~ Last modified 16-5-23 下午9:37
+  ~ Last modified 16-6-3 下午12:15
   -->
 
 <RelativeLayout
@@ -20,9 +20,9 @@
         android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/linearLayout11"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/linearLayout11">
+        android:layout_centerHorizontal="true">
 
         <TextView
             android:layout_width="wrap_content"

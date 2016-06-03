@@ -2,7 +2,7 @@
  * Created by GONGYIN HE （何功垠） in 2016
  * Copyright (c) 2016. All right reserved.
  *
- * Last modified 16-5-23 下午9:37
+ * Last modified 16-6-3 下午12:15
  */
 
 package com.joeyhe.pocketlab;
@@ -57,7 +57,6 @@ public class Oscillocope extends FragmentActivity
     private boolean stop = true;
     private boolean isStop = true ,toContinue = false, isContinue = false;
     private SlidingMenu menu = null;
-    private MenuDrawer pDrawer;
     private int max,min,picker,count = 0,m = 0,
             volts1 = 1000, volts2 = 1000,
             vd1 = 0, vd2 = 0,
@@ -70,7 +69,6 @@ public class Oscillocope extends FragmentActivity
     private float gain1 = 0, gain2 = 0;
     private int[] AD1,AD2;
     private float[] vinput1,vinput2,inputDraw1,inputDraw2;
-    private String instruction = null;
     private LineChart chart;
 
 //    制表线程
@@ -95,7 +93,7 @@ public class Oscillocope extends FragmentActivity
         FlatUI.initDefaultValues(this);
         FlatUI.setDefaultTheme(FlatUI.SNOW);
 
-        pDrawer = MenuDrawer.attach(this, Position.BOTTOM);
+        MenuDrawer pDrawer = MenuDrawer.attach(this, Position.BOTTOM);
         pDrawer.setContentView(R.layout.activity_oscilloscope);
         pDrawer.setMenuView(R.layout.osc_picker);
 
@@ -125,7 +123,7 @@ public class Oscillocope extends FragmentActivity
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        findViewById(R.id.button_OscStop).setEnabled(false);
+//        findViewById(R.id.button_OscStop).setEnabled(false);
     }
 
 //    监听耦合
@@ -384,8 +382,8 @@ public class Oscillocope extends FragmentActivity
         runOsc();
     }
     public void runOsc(){
-        findViewById(R.id.button_OscRun).setEnabled(false);
-        findViewById(R.id.button_OscStop).setEnabled(true);
+//        findViewById(R.id.button_OscRun).setEnabled(false);
+//        findViewById(R.id.button_OscStop).setEnabled(true);
         mReceiveThread = new ReceiveThread(clientSocket);
         stop = false;
         isStop = false;
@@ -393,7 +391,7 @@ public class Oscillocope extends FragmentActivity
         //开启线程
         mReceiveThread.start();
         //                OPEN_OSC2凵<A1>凵<A2>凵<A3>凵<A4>凵<A5>↙
-        instruction = "OPEN_OSC2 20 " + A2 + " " + A3 + " " + A4 + " " + A5 + "\r";
+        String instruction = "OPEN_OSC2 20 " + A2 + " " + A3 + " " + A4 + " " + A5 + "\r";
         mPrintWriter.print(instruction);
         mPrintWriter.flush();
     }
@@ -485,6 +483,8 @@ public class Oscillocope extends FragmentActivity
                             System.out.println(offset2);
                             System.out.println(gain1);
                             System.out.println(gain2);
+                            String s = new String(b,"utf-8");
+                            System.out.println(s);
                         }
                         AD1 = getAD(b,numberX,1);
                         AD2 = getAD(b,numberX,2);

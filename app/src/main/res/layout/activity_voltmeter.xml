@@ -3,7 +3,7 @@
   ~ Created by GONGYIN HE （何功垠） in 2016
   ~ Copyright (c) 2016. All right reserved.
   ~
-  ~ Last modified 16-5-23 下午9:37
+  ~ Last modified 16-6-3 下午12:15
   -->
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -177,9 +177,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout15"
-        android:layout_alignTop="@+id/linearLayout9"
-        android:layout_alignParentEnd="true"
-        android:layout_alignBottom="@+id/linearLayout9">
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/button3">
 
         <TextView
             android:layout_width="wrap_content"
@@ -263,10 +262,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/linearLayout8"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="false"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp">
+                android:layout_marginTop="10dp"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="false">
 
                 <LinearLayout
                     android:orientation="vertical"
